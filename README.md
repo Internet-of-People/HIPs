@@ -8,7 +8,7 @@ Hydra Improvement Proposals
 
 When your Pull Request is merged you will continue to work on the AIP together with the AIP editor. 
 
-## Current AIPs
+## Current HIPs
 | Number        | Title        | Author | Type  | Layer        | Status / Discussion |
 | ------------- | ------------ | ------ | ----- | ------------ | ------------------- |
 | [1](HIPS/hip-1.md) | HIP Purpose and Guidelines | Markus Maiwald | Informational | | Active |
